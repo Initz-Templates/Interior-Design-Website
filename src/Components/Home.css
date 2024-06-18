@@ -1,0 +1,75 @@
+/* Home.css */
+
+.home {
+    padding-top: 3rem;
+  }
+  
+  .welcome-section {
+    background-color: #2a3b4c;
+    color: #ffffff;
+    padding: 3rem 0;
+  }
+  
+  .welcome-section .title,
+  .welcome-section .subtitle,
+  .welcome-section .button {
+    animation-duration: 1s;
+  }
+  
+  .about-us {
+    padding: 3rem 0;
+  }
+  
+  .our-projects {
+    background-color: #f5f5f5;
+    padding: 3rem 0;
+  }
+  
+  .project-box {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .services {
+    padding: 3rem 0;
+  }
+  
+  .service-box {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .team {
+    padding: 3rem 0;
+  }
+  
+  .team-member {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .testimonials {
+    padding: 3rem 0;
+  }
+  
+  .testimonial {
+    background-color: #ffffff;
+    padding: 1.5rem;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .contact {
+    padding: 3rem 0;
+  }
+  
+  .contact .button {
+    margin-top: 20px;
+  }
+  
